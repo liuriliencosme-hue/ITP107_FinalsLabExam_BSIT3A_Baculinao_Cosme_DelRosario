@@ -79732,7 +79732,7 @@ ow(){var s=0,r=A.P(t.H),q,p=2,o,n=this,m,l,k,j,i,h
 var $async$ow=A.Q(function(a,b){if(a===1){o=b
 s=p}while(true)switch(s){case 0:p=4
 s=7
-return A.K(A.aO3(A.fI("https://dummyjson.com/posts?limit=0",0,null)).zG(0,B.mj),$async$ow)
+return A.K(A.aO3(A.fI("https://dummyjson.com/posts?limit=30",0,null)).zG(0,B.mj),$async$ow)
 case 7:m=b
 if(n.c==null){s=1
 break}if(m.b===200){j=m
