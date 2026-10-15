@@ -32,7 +32,7 @@ class _PostsScreenState extends State<PostsScreen> {
     _fetchPosts();
   }
 
-  /// GET all posts. Shows them on status 200, otherwise shows an error message.
+  /// GET the first 30 posts. Shows them on status 200, otherwise shows an error message.
   Future<void> _fetchPosts() async {
     try {
       final response = await http

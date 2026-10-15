@@ -5,8 +5,8 @@ class AppRoutes {
   static const String favorites = '/favorites';
 }
 
-/// DummyJSON endpoint for reading (GET) all posts. `limit=0` returns every post.
-const String postsApiUrl = 'https://dummyjson.com/posts?limit=0';
+/// DummyJSON endpoint for reading (GET) posts. `limit=30` returns the first 30.
+const String postsApiUrl = 'https://dummyjson.com/posts?limit=30';
 
 /// DummyJSON endpoint for creating (POST) a new post.
 const String createPostApiUrl = 'https://dummyjson.com/posts/add';
