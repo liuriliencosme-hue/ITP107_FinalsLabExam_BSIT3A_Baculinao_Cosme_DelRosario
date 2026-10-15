@@ -1,5 +1,10 @@
 # Post Reader & Favorites
 
+[![Open the live web app](https://img.shields.io/badge/%E2%96%B6%20LIVE%20WEB%20APP-Open%20in%20browser-2ea44f?style=for-the-badge)](https://liuriliencosme-hue.github.io/ITP107_FinalsLabExam_BSIT3A_Baculinao_Cosme_DelRosario/)
+
+> [!IMPORTANT]
+> **Try the app in your browser:** https://liuriliencosme-hue.github.io/ITP107_FinalsLabExam_BSIT3A_Baculinao_Cosme_DelRosario/
+
 ITP107 Mobile Application Development – Finals Laboratory Examination.
 
 A Flutter app that reads English posts from the [DummyJSON API](https://dummyjson.com/posts),
